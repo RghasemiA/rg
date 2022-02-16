@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RghasemiA 
-giotsere
-/
-minimalist-portfolio
-Public
-Code
-Issues
-2
-Pull requests
-6
-Actions
-Projects
-Wiki
-Security
-Insights
-minimalist-portfolio/style.css
-@giotsere
-giotsere Update style.css
-Latest commit 9ba2636 on Oct 13, 2020
- History
- 1 contributor
-104 lines (90 sloc)  1.49 KB
-   
+
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
@@ -40,17 +11,17 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #144472;
-    color: #7A7C80;
+    background-color: #083f72;
+    color: #a1a3a8;
 
 }
 
 h2,.white{
-    color: #fff;
+    color: rgb(117, 107, 13);
 }
 
 a{
-    color: #7A7C80;
+    color: #8c919b;
     text-decoration: none;
 }
 /* section 1 */
@@ -132,16 +103,3 @@ a{
         padding-top: 2rem;
     }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
